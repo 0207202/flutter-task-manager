@@ -200,7 +200,7 @@ class _SettingsState extends State<Settings> {
                   children: <Widget>[
                     Padding(
                       padding: const EdgeInsets.only(bottom: 10.0),
-                      child: new Text("Bornomala Technologies ",
+                      child: new Text("TASK MANAGER",
                           style: new TextStyle(
                               fontSize: 15.0, color: Colors.black54)),
                     ),
